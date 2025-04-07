@@ -1,4 +1,4 @@
---For looking at the data and solving quesries
+--For looking at the data and solving queries
 select * from tbl_yelp_reviews limit 10;
 select * from tbl_yelp_businesses limit 10;
 
