@@ -1,6 +1,7 @@
   -- 3. Sentiment Analysis
 USE database SQL
 
+  -- Create and insert statements
 Create table reviews (review varchar(200));
 insert into reviews values ('I love this product! It works Perfectly.');
 insert into reviews values('This product is okay, but could be better.');
